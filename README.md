@@ -209,7 +209,7 @@
     <div class="card">
       <div class="card-header" onclick="toggle('m6')">
         <div class="card-num num-massage">6</div>
-        <div class="card-name">massage intra-buccale</div>
+        <div class="card-name">massage de fermeture des commissures labiales</div>
         <div class="card-arrow" id="arrow-m6">▶</div>
       </div>
       <div class="card-body" id="body-m6">
